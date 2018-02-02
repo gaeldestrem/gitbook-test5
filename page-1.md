@@ -1,2 +1,2 @@
-Page 2 content
+Page 2 new content
 
